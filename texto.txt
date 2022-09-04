@@ -1,3 +1,5 @@
 Bienvenidos
 Esto es un proyecto donde estamos buscando aprendereda utilizar GIT
-y así poder avanzar un poco más en el curso de full stack
+y así poder avanzar un poco más en el curso de full stack.
+
+Ahora vamos a hacer el primer cambio par ver como funciona los commit
