@@ -1,5 +1,7 @@
-Bienvenidos
-Esto es un proyecto donde estamos buscando aprendereda utilizar GIT
-y así poder avanzar un poco más en el curso de full stack.
+nuevo txt paragit
 
 Ahora vamos a hacer el primer cambio par ver como funciona los commit
+
+Este es el 2° commit (esto)
+ será comoun comentario para ver como quedaron los cambios)
+Este es el 3° commit 
